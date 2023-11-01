@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-juxtaposition-between-idealization-and-reality.json",
+  "type": "AnnotationPage",
+  "label": "Juxtaposition between idealization and reality",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "video-games-canvas-1-juxtaposition-between-idealization-and-reality-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman  seen drunk and struggling in front of paparazi... bad image.....; meanwhile men are seen in idealized situations of carefree behavior without consequences",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://drilll1000000.github.io/deez/video-games/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://drilll1000000.github.io/deez/video-games/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "252.0"
+        }
+      }
+    }
+  ]
+}

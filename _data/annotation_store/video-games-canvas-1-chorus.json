@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-chorus.json",
+  "type": "AnnotationPage",
+  "label": "Chorus",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "video-games-canvas-1-chorus-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This shawtie is bending backwards for this loser.... SHAWTIE STAND UP.....",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://drilll1000000.github.io/deez/video-games/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://drilll1000000.github.io/deez/video-games/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "60.0"
+        }
+      }
+    }
+  ]
+}

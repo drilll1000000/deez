@@ -23,6 +23,48 @@
         "id": "https://drilll1000000.github.io/deez/video-games/canvas-1/canvas",
         "type": "Canvas",
         "duration": 277.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-2nd-verse.json",
+            "label": {
+              "none": ["2nd verse"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-romanticization-of-this-male---.json",
+            "label": {
+              "none": ["Romanticization of this male..."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-chorus.json",
+            "label": {
+              "none": ["Chorus"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-female-as-subj.json",
+            "label": {
+              "none": ["Female as subj"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-juxtaposition-between-idealization-and-reality.json",
+            "label": {
+              "none": ["Juxtaposition between idealization and reality"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://drilll1000000.github.io/deez/video-games/canvas-1/paintings",

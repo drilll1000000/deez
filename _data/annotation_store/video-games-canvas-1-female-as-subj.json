@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-female-as-subj.json",
+  "type": "AnnotationPage",
+  "label": "Female as subj",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "video-games-canvas-1-female-as-subj-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Men take primary roll in imagery at the expense of women. Female subjects generally shown either solitary (lana alone in white room), behind a man (riding on back seat) or without recourse in healthy behavior",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://drilll1000000.github.io/deez/video-games/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://drilll1000000.github.io/deez/video-games/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "103.0"
+        }
+      }
+    }
+  ]
+}

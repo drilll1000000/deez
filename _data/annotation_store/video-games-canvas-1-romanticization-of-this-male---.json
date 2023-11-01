@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://drilll1000000.github.io/deez/annotations/video-games-canvas-1-romanticization-of-this-male---.json",
+  "type": "AnnotationPage",
+  "label": "Romanticization of this male...",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "video-games-canvas-1-romanticization-of-this-male----annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Romantic imagery of youth/carefree-ness",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://drilll1000000.github.io/deez/video-games/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://drilll1000000.github.io/deez/video-games/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2.0"
+        }
+      }
+    }
+  ]
+}
